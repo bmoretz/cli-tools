@@ -33,6 +33,4 @@ A curated list of cli tools that your enhance your development enviroment.
   + `exa` is an enhanced ls tool.
   ![exa](https://github.com/ogham/exa/blob/master/screenshots.png)
   
-  Ubuntu install from source:
-  
-  https://the.exa.website/install/source
+  Ubuntu install from source: https://the.exa.website/install/source
